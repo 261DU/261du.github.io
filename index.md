@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to 261度的博客
 
 You can use the [editor on GitHub](https://github.com/261DU/261du.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
